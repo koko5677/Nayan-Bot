@@ -9,17 +9,17 @@
   "saveState": true,
   "banMsg": false,
   "adminOnlyMsg": false,
-  "BOTNAME": "SK OFFICIAL",
+  "BOTNAME": "SK LOVE DIL ROOBA",
   "PREFIX": "+",
   "OPERATOR": [
-    "100080043381746",
-    "100080043381746"
+    "100014896964436",
+    "100000959749712"
   ],
   "ADMINBOT": [
     "100080043381746",
     ""
   ],
-  "OWNER": ["100080043381746"], 
+  "OWNER": ["100000959749712"], 
   "APPROVED": [],
   "disabledcmds": [],
   "disabledevents": [],
@@ -27,3 +27,4 @@
   "notice": "dont cng author name and owner uid. otherwise bot not working",
   "notice2": "if you run use email and password, use saveState false; otherwise, use saveState true"
 }
+  
